@@ -16,7 +16,7 @@ Each research document is carefully selected to provide **in-depth technical kno
 ## 📂 Current Articles
 ### 1️⃣ Clone Robotics: Humanoid Robot with Biomimetic Muscles
 - **Summary**: Analyzing the technological breakthroughs behind Clone Robotics, including biomimetic muscle design, actuation, and future applications.
-- **File**: [Deep Research - Clone Robotics - Humanoid Robot.pdf](./Deep%20Research%20-%20Clone%20Robotics%20-%20Humanoid%20Robot.pdf) (Czech version)
+- **File**: [Deep Research - Clone Robotics - Humanoid Robot (Czech).pdf](./Deep%20Research%20-%20Clone%20Robotics%20-%20Humanoidní%20robot%20(Czech).pdf) (Czech version)
 
 More articles will be added as the repository expands.
 
