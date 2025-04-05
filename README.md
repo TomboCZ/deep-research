@@ -8,7 +8,7 @@ This repository contains **curated deep research articles** on various topics, i
 
 - **Artificial Intelligence & Generative AI**
 - **Robotics**
-- **General Technical Innovations**
+- **Other (Interesting, Popular or Niche Topics)**
 
 Each research document is carefully selected to provide **in-depth technical knowledge** and references to foundational work in the field.
 
